@@ -3,7 +3,7 @@
 Workspace for PyG
 
 ## *Environment*
-- docker image : nvcr.io/nvidia/pytorch:21.10-py3
+- docker image : nvcr.io/nvidia/pytorch:21.06-py3
 
 ## "Setup"
 
